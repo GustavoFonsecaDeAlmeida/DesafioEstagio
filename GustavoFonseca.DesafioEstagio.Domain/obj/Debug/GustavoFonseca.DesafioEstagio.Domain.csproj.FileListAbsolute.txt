@@ -1,0 +1,10 @@
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\GustavoFonseca.DesafioEstagio.Domain.dll.config
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\GustavoFonseca.DesafioEstagio.Domain.dll
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\GustavoFonseca.DesafioEstagio.Domain.pdb
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\EntityFramework.dll
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\EntityFramework.xml
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\obj\Debug\GustavoFonseca.DesafioEstagio.Domain.dll
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\obj\Debug\GustavoFonseca.DesafioEstagio.Domain.pdb
+C:\GustavoFonseca\GustavoFonseca.DesafioEstagio.Solution\GustavoFonseca.DesafioEstagio.Domain\obj\Debug\GustavoFonseca.DesafioEstagio.Domain.csprojResolveAssemblyReference.cache
